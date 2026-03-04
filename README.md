@@ -65,4 +65,14 @@ F1-score
 
 Confusion Matrix
 
+# 📈 Model Performance
 
+Model               	             Recall (Rejected)	           Accuracy
+
+Logistic Regression	                    0.42	                     0.79
+
+Decision Tree	                          0.42	                     0.68
+
+Logistic + SMOTE	                      0.44                       0.77
+
+Decision Tree + SMOTE	                  0.47	                     0.76
