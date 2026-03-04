@@ -40,19 +40,29 @@ imbalanced-learn (SMOTE)
 # ⚙️ Project Workflow:
 
 Data Loading
+
 Data Cleaning (Handling Missing Values)
+
 Encoding Categorical Variables
+
 Train-Test Split
 
 # Model Training:
+
 Logistic Regression
+
 Decision Tree
+
 Handling Imbalanced Data using SMOTE
 
 # Model Evaluation using:
+
 Precision
+
 Recall
+
 F1-score
+
 Confusion Matrix
 
 
